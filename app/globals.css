@@ -135,3 +135,5 @@
  .hero-grid{display:none}.hero h1{max-width:100%;font-size:clamp(54px,5.7vw,88px)}
  .hero-bottom{flex-wrap:wrap;gap:14px;margin-top:35px}.hero-description{max-width:100%}
 }
+.lightbox{margin:auto;width:min(94vw,720px);padding:50px 16px 18px}
+.lightbox-image{width:100%;height:auto;max-height:72svh;object-fit:contain}
