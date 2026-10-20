@@ -19,7 +19,7 @@ Também é possível usar pnpm: `pnpm install`, `pnpm dev`, `pnpm build`. O lock
 
 - Hero com fotografia real, identidade escura e acentos vermelhos das publicações.
 - Formatos confirmados: grande (8 pedaços), grande com 2 sabores (8 pedaços) e broto (4 pedaços).
-- Todos os pedidos seguem ao cardápio oficial Chef Gourmet. Nenhum pedido é simulado.
+- Escolha de sabores no cardápio oficial Chef Gourmet e pedido direto no WhatsApp confirmado pelo cliente: (17) 99722-8294. Nenhuma mensagem é enviada automaticamente.
 - Galeria ampliável com fechamento por Escape, botão e clique no fundo.
 - Menu móvel, CTA fixo no celular e links para Instagram e Google Maps.
 - Metadados em português e dados estruturados Restaurant com endereço confirmado.
@@ -28,10 +28,10 @@ Também é possível usar pnpm: `pnpm install`, `pnpm dev`, `pnpm build`. O lock
 
 ## Decisões e fontes
 
-Leia [fontes e pendências](docs/SOURCES.md) e [direção visual](docs/DESIGN.md). Não há sabores, avaliações, tradição familiar, fermentação, tipo de forno ou técnicas não confirmadas apresentados como fatos.
+Leia [fontes e pendências](docs/SOURCES.md) e [direção visual](docs/DESIGN.md). As avaliações usam os trechos e a nota do Google Maps fornecidos pelo cliente, com data de referência. Não há sabores, tradição familiar, fermentação, tipo de forno ou técnicas não confirmadas apresentados como fatos.
 
 ## Publicar na Vercel
 
 Importe este repositório em um novo projeto, selecione Next.js e mantenha a raiz do projeto em `./`. Não são necessárias variáveis de ambiente. Os comandos padrão de instalação e build são suficientes.
 
-Antes de lançar como site oficial: confirme os contatos, revise a autorização de uso de imagens, troque o favicon pelo logo em alta resolução e ajuste `robots` em `app/layout.tsx` para permitir indexação. Configure domínio/canonical e sitemap quando a URL final oficial for definida.
+Antes de lançar como site oficial: revise a autorização de uso de imagens, troque o favicon pelo logo em alta resolução e ajuste `robots` em `app/layout.tsx` para permitir indexação. Configure domínio/canonical e sitemap quando a URL final oficial for definida.

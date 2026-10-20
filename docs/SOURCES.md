@@ -33,9 +33,9 @@ As fotos dos formatos são editoriais; não identificam sabores nem garantem a c
 
 ## Pendências
 
-- WhatsApp: a embalagem e uma publicação exibem (17) 99722-8294, mas o contato no Chef Gourmet é (17) 99603-4721. Não integrar WhatsApp até confirmar qual canal está ativo e destinado a pedidos.
+- WhatsApp confirmado pelo cliente em 20/10/2026: +55 17 99722-8294. Integrado com mensagem pré-preenchida nos botões de pedido, contato e barra móvel. O contato divergente do Chef Gourmet não é usado no site.
 - Sabores e ingredientes: não foi copiado um inventário completo verificável. O cardápio externo é a fonte atualizada.
-- Avaliações reais: nenhuma avaliação específica com autoria e origem foi confirmada. Seção omitida.
+- Avaliações: o cliente forneceu em 20/10/2026 um resumo do Google Maps com nota 4,7/5, 16 avaliações e três trechos. A seção reproduz esses trechos, sem inventar nomes ou notas individuais, e vincula ao Maps. A nota é uma fotografia dos dados enviados, não uma consulta automática em tempo real. Não foram adicionados dados estruturados de avaliações.
 - Processo, fermentação, forno, história, fundadores, ano de abertura: não confirmados. Seções omitidas.
 - Logotipo vetorial/em alta resolução e acervo original de fotos e vídeos: solicitar para a versão final.
 - Manual de marca: não fornecido. A paleta é interpretação editorial do avatar e posts, não extração de cores oficiais de um manual.

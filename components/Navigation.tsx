@@ -20,9 +20,9 @@ export default function Navigation(){
     <a href="#brooklyn" onClick={()=>setOpen(false)}>A Brooklyn <span className="mobile-only" aria-hidden>↓</span></a>
     <a href="#galeria" onClick={()=>setOpen(false)}>Fotos das pizzas <span className="mobile-only" aria-hidden>↓</span></a>
     <a href="#localizacao" onClick={()=>setOpen(false)}>Endereço e horários <span className="mobile-only" aria-hidden>↓</span></a>
-    <a className="mobile-only nav-order" href={r.menuUrl} target="_blank" rel="noopener noreferrer" onClick={()=>setOpen(false)}>Fazer meu pedido ↗</a>
+    <a className="mobile-only nav-order" href={r.whatsappUrl} target="_blank" rel="noopener noreferrer" onClick={()=>setOpen(false)}>Pedir pelo WhatsApp ↗</a>
    </nav>
-   <a className="button compact" href={r.menuUrl} target="_blank" rel="noopener noreferrer">Fazer pedido <span aria-hidden>↗</span></a>
+   <a className="button compact" href={r.whatsappUrl} target="_blank" rel="noopener noreferrer">Pedir no WhatsApp <span aria-hidden>↗</span></a>
    <button ref={toggle} className="menu-toggle" aria-label={open?'Fechar menu':'Abrir menu'} aria-expanded={open} aria-controls="site-navigation" onClick={()=>setOpen(!open)}><span>{open?'Fechar':'Menu'}</span><b aria-hidden>{open?'×':'☰'}</b></button>
   </header>
  </>
