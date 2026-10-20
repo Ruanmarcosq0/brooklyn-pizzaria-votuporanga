@@ -9,3 +9,9 @@ A fonte de títulos é Impact com alternativas locais; a interface usa Arial/Hel
 Motion adiciona movimento discreto sem esconder conteúdo antes de hidratar. Sem WebGL ou vídeo fictício: nenhum material de processo ou filme original foi confirmado. Navegação por teclado, link de salto, diálogo nativo e preferência por movimento reduzido.
 
 O texto é editorial original, sem superlativos não comprovados, descontos antigos ou depoimentos inventados. Todas as informações comerciais vêm da bio e do cardápio vinculado.
+
+## Navegação no celular
+
+Barra inferior persistente com Cardápio, Onde estamos e Pedir agora. Cabeçalho fixo com botão identificado como Menu, links amplos, fechamento por Escape, toque fora e seleção de seção. Os controles respeitam áreas de toque de pelo menos 44px e o espaço seguro inferior do aparelho.
+
+No celular, a abertura é mais curta, os formatos de pizza são linhas compactas com ação explícita de escolha, as fotos deslizam horizontalmente com indicação e os horários confirmados aparecem junto ao endereço. Os elementos fixos têm espaço reservado para não cobrir o final do conteúdo. A composição desktop é preservada.
